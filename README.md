@@ -15,13 +15,13 @@ I currently live in Arlington, Virginia with my partner Tammy and two wonderful 
 ## Courses Taken
 
 Fall 2021:
-**PUBH** _6421_ Responsible Conduct of Research
-**PUBH** _6852_ Introduction to Python
-**PUBH** _6860_ Principles of Bioinformatics
-**PUBH** _6863_ Applied Meta-analysis
-**PUBH** _8099_ PhD Seminar: Cross-Cutting Concepts
-**PUBH** _8870_ Statistical Inference I
-**PUBH** _8877_ Generalized Linear Models in Biostatistics
+**PUBH** _6421_ Responsible Conduct of Research\n
+**PUBH** _6852_ Introduction to Python\n
+**PUBH** _6860_ Principles of Bioinformatics\n
+**PUBH** _6863_ Applied Meta-analysis\n
+**PUBH** _8099_ PhD Seminar: Cross-Cutting Concepts\n
+**PUBH** _8870_ Statistical Inference I\n
+**PUBH** _8877_ Generalized Linear Models in Biostatistics\n
 
 For my Bioinformatics course this semester, I created this very cool phylogenetic tree.
 
