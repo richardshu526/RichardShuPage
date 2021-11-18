@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/richardshu526/RichardShuPage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is **Richard Shu** and I am a first year PhD student in Biostatistics at _Milken Institue School of Public Health_ at the [George Washington University](https://publichealth.gwu.edu/departments/biostatistics-and-bioinformatics). I am originally from _Dalian, China_, and spent my last six years here in the US. I completed my undergraduate degree in Mathematics and Economics at _Vassar College_, while studying abroad for one semester at _St. Edmund Hall, Oxford University_. I received my master degree in statistics at _Carnegie Mellon University_.
 
-### Markdown
+During the year of Covid-19 pandemic, I chose to join a Federally Qualified Health Center(**FQHC**) in rural Arizona, and this work experience got me into biostatistics. Throughout my one-year work experience, I not only refined my coding skills in R, Python and SQL, but also learnt various aspects of public health. I realized the importance of public health and the immediate need of public health professionals. I hope to become a field expert with my education here at GWU.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Current Life
 
-```markdown
-Syntax highlighted code block
+I currently live in Arlington, Virginia with my partner Tammy and two wonderful kittens, McSwirl and Charlie, a American Shorthair and a Havana Brown. Please see their picture below. Besides school work, I also work at the Biostatistics Center of GWU, within the group of Diabetics Prevention Program under the guidance of Dr.Marinella Temprosa. I am still exploring my dissertation interest, so please feel free to reach out to me if you have any great research ideas!
 
-# Header 1
-## Header 2
-### Header 3
+[IMG_5446.pdf](https://github.com/richardshu526/RichardShuPage/files/7559327/IMG_5446.pdf)
 
-- Bulleted
-- List
+## Courses Taken
 
-1. Numbered
-2. List
+Fall 2021:
+**PUBH** _6421_ Responsible Conduct of Research
+**PUBH** _6852_ Introduction to Python
+**PUBH** _6860_ Principles of Bioinformatics
+**PUBH** _6863_ Applied Meta-analysis
+**PUBH** _8099_ PhD Seminar: Cross-Cutting Concepts
+**PUBH** _8870_ Statistical Inference I
+**PUBH** _8877_ Generalized Linear Models in Biostatistics
 
-**Bold** and _Italic_ and `Code` text
+For my Bioinformatics course this semester, I created this very cool phylogenetic tree.
 
-[Link](url) and ![Image](src)
-```
+<img width="873" alt="ITOL" src="https://user-images.githubusercontent.com/94484025/142340505-1ce30dfe-b43a-4242-a466-8091500a7156.png">
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Support or Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richardshu526/RichardShuPage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can reach me at shishu@gwu.edu or sshu@bsc.gwu.edu
