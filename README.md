@@ -14,7 +14,7 @@ I currently live in Arlington, Virginia with my partner Tammy and two wonderful 
 
 ## Courses Taken
 
-Fall 2021:
+Fall 2021:<br/>
 **PUBH** _6421_ Responsible Conduct of Research<br/>
 **PUBH** _6852_ Introduction to Python<br/>
 **PUBH** _6860_ Principles of Bioinformatics<br/>
