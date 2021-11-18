@@ -7,9 +7,10 @@ During the year of Covid-19 pandemic, I chose to join a Federally Qualified Heal
 
 ## Current Life
 
-I currently live in Arlington, Virginia with my partner Tammy and two wonderful kittens, McSwirl and Charlie, a American Shorthair and a Havana Brown. Please see their picture below. Besides school work, I also work at the Biostatistics Center of GWU, within the group of Diabetics Prevention Program under the guidance of Dr.Marinella Temprosa. I am still exploring my dissertation interest, so please feel free to reach out to me if you have any great research ideas!
+I currently live in Arlington, Virginia with my partner Tammy and two wonderful kittens, McSwirl and Charlie, a American Shorthair and a Havana Brown. You can see their pictures below. Besides school work, I also work at the Biostatistics Center of GWU, within the group of Diabetics Prevention Program under the guidance of Dr.Marinella Temprosa. I am still exploring my dissertation interest, so please feel free to reach out to me if you have any great research ideas!
 
-[IMG_5446.pdf](https://github.com/richardshu526/RichardShuPage/files/7559327/IMG_5446.pdf)
+![IMG_5446](https://user-images.githubusercontent.com/94484025/142341734-4e7b1f06-6fc4-498d-9ffa-e68032bd5877.jpg)
+
 
 ## Courses Taken
 
