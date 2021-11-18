@@ -1,6 +1,6 @@
-## About Me
+## Welcome To
 
-Welcome!
+## About Me
 
 My name is **Richard Shu** and I am a first year PhD student in Biostatistics at _Milken Institue School of Public Health_ at the [George Washington University](https://publichealth.gwu.edu/departments/biostatistics-and-bioinformatics). I am originally from _Dalian, China_, and spent my last six years here in the US. I completed my undergraduate degree in Mathematics and Economics at _Vassar College_, while studying abroad for one semester at _St. Edmund Hall, Oxford University_. I received my master degree in statistics at _Carnegie Mellon University_.
 
@@ -15,13 +15,13 @@ I currently live in Arlington, Virginia with my partner Tammy and two wonderful 
 ## Courses Taken
 
 Fall 2021:
-**PUBH** _6421_ Responsible Conduct of Research/n
-**PUBH** _6852_ Introduction to Python/n
-**PUBH** _6860_ Principles of Bioinformatics/n
-**PUBH** _6863_ Applied Meta-analysis/n
-**PUBH** _8099_ PhD Seminar: Cross-Cutting Concepts/n
-**PUBH** _8870_ Statistical Inference I/n
-**PUBH** _8877_ Generalized Linear Models in Biostatistics/n
+**PUBH** _6421_ Responsible Conduct of Research<br/>
+**PUBH** _6852_ Introduction to Python<br/>
+**PUBH** _6860_ Principles of Bioinformatics<br/>
+**PUBH** _6863_ Applied Meta-analysis<br/>
+**PUBH** _8099_ PhD Seminar: Cross-Cutting Concepts<br/>
+**PUBH** _8870_ Statistical Inference I<br/>
+**PUBH** _8877_ Generalized Linear Models in Biostatistics<br/>
 
 For my Bioinformatics course this semester, I created this very cool phylogenetic tree.
 
