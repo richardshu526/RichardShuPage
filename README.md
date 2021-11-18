@@ -1,4 +1,3 @@
-## Welcome To
 
 ## About Me
 
@@ -30,3 +29,5 @@ For my Bioinformatics course this semester, I created this very cool phylogeneti
 ## Support or Contact
 
 You can reach me at shishu@gwu.edu or sshu@bsc.gwu.edu
+
+### Last Updated: November 17, 2021
